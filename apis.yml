@@ -1,7 +1,28 @@
 aid: flirtey
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/flirtey.png
 name: Flirtey
-description: Flirtey is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Flirtey was a drone-delivery technology company founded in 2013 by Matthew Sweeny and
+  Tom Bass, backed by Y Combinator. It pioneered autonomous unmanned aerial vehicle
+  delivery, conducting the first FAA-approved drone delivery in the United States in 2016
+  (Nevada) and running early delivery trials with partners including Domino's (the first
+  pizza delivered by drone, in New Zealand) and 7-Eleven. Flirtey developed the Flirtey
+  Eagle delivery drone and portable landing/loading systems aimed at medical, food, and
+  retail last-mile logistics. The company is now defunct: it did not maintain a public
+  developer program or API, and the flirtey.com domain has since been sold and now
+  redirects to an unrelated business (us-stemcell.com). This API Evangelist profile is
+  retained as a historical company record with no live API surface to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/flirtey/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +30,31 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: >-
+  Enrichment probe 2026-07-19: flirtey.com (185.177.74.203) 301-redirects to
+  us-stemcell.com; no developer./api./docs. subdomains resolve. No public API,
+  developer portal, OpenAPI, .well-known, packages, or documentation surface exists.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Drone Delivery
+- Unmanned Aerial Vehicles
+- Logistics
+- Last Mile Delivery
+- Autonomous Systems
+- Y Combinator
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
