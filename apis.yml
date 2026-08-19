@@ -35,7 +35,7 @@ x-status-detail: >-
   Enrichment probe 2026-07-19: flirtey.com (185.177.74.203) 301-redirects to
   us-stemcell.com; no developer./api./docs. subdomains resolve. No public API,
   developer portal, OpenAPI, .well-known, packages, or documentation surface exists.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
