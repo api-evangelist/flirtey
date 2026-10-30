@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Flirtey is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: y-combinator
+Flirtey was a drone-delivery technology company founded in 2013 by Matthew Sweeny and Tom Bass, backed by Y Combinator. It pioneered autonomous unmanned aerial vehicle delivery, conducting the first FAA-approved drone delivery in the United States in 2016 (Nevada) and running early delivery trials with partners including Domino's (the first pizza delivered by drone, in New Zealand) and 7-Eleven. Flirtey developed the Flirtey Eagle delivery drone and portable landing/loading systems aimed at medical, food, and retail last-mile logistics. The company is now defunct: it did not maintain a public developer program or API, and the flirtey.com domain has since been sold and now redirects to an unrelated business (us-stemcell.com). This API Evangelist profile is retained as a historical company record with no live API surface to enrich.
+
+**Areas:** Company · Drone Delivery · Unmanned Aerial Vehicles · Logistics · Last Mile Delivery · Autonomous Systems · Y Combinator · Defunct
+
+## Flirtey on APIs.io (historical record)
+
+Everything profiled for Flirtey is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/flirtey/](https://apis.io/providers/flirtey/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Flirtey: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/flirtey/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
